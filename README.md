@@ -1,6 +1,6 @@
 calculator_app
 
-![Output Video](output.mp4)
+
 ![UI Screenshot](output1.png)
 ![First I entered number 12](output2.png)
 ![Then I entered + operator and the entered number 12 dissapeared](output3.png)
